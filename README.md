@@ -54,5 +54,5 @@ Other customers (Electronics City, Digital Square) also contribute.
 Top Products: Product3: Leads in revenue (over $150 million).
 
 # Recommendations:
-Continue monitoring market trends and customer preferences.
-Explore opportunities to optimize profit margins further
+* Continue monitoring market trends and customer preferences.
+* Explore opportunities to optimize profit margins further.
